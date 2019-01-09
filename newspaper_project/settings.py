@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #apps locales
     'users',
     'pages',
+    'articles',
 
     #librerias de terceros
     'crispy_forms',
